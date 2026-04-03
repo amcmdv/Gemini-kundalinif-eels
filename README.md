@@ -2,7 +2,7 @@
 # Advanced Biometric-to-Semantic Synthesis Framework
 
 ## Project Overview
-The Gemini-KundaliniF-Eels (GKFE) project is a high-fidelity integration layer designed to bridge the gap between human bio-energetic signals and the Gemini 3 Flash multimodal engine. By utilizing a proprietary Electrochemical Linkage System (EELS), the framework translates micro-voltage fluctuations in human physiology into high-dimensional semantic embeddings.
+The Gemini-KundaliniF-Eels (GKFE) project is a high-fidelity integration layer designed to bridge the gap between human bio-energetic signals and the Gemini 3 Flash multimodal engine. By utilising a proprietary Electrochemical Linkage System (EELS), the framework translates micro-voltage fluctuations in human physiology into high-dimensional semantic embeddings.
 
 ## Technical Architecture
 The system operates on a three-tier modality:
