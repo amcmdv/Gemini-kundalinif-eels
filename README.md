@@ -9,6 +9,6 @@ The system operates on a three-tier modality:
 
 Signal Acquisition: Real-time capture of neural and somatic oscillations via the GKFE-Custom Pin.
 
-Kundalini-Mapping Layer: A recursive neural network (RNN) that categorizes signals into a 7-stage energetic taxonomy (ranging from Root to Crown).
+Kundalini-Mapping Layer: A recursive neural network (RNN) that categorises signals into a 7-stage energetic taxonomy (ranging from Root to Crown).
 
 LLM Synthesis: Gemini 3 Flash interprets the mapped energetic state to provide context-aware feedback or generative output.
